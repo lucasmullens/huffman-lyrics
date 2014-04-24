@@ -1,0 +1,60 @@
+[
+  {
+    "artist": "NEON TREES",
+    "genre": "Alternative",
+    "subgenre": "Alternative-Rock",
+    "songs": [
+      {
+        "name": "This is a Test Song",
+        "lyrics": "this is a test this is a test this is a test ",
+        "words": [
+          {
+            "this": 3,
+            "is": 3,
+            "a": 3,
+            "test": 3
+          }
+        ]
+      },
+      {
+        "name": "Another Example",
+        "lyrics": "i am an example",
+        "words": [
+          {
+            "i": 1,
+            "am": 1,
+            "an": 1,
+            "example": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "artist": "SOME ARTIST",
+    "genre": "Alternative",
+    "subgenre": "Alternative-something-else",
+    "songs": [
+      {
+        "name": "Testing",
+        "lyrics": "woooo test",
+        "words": [
+          {
+            "woooo": 1,
+            "test": 1
+          }
+        ]
+      },
+      {
+        "name": "Foo bar",
+        "lyrics": "foo bar foo bar foo bar foo bar foo bar foo ",
+        "words": [
+          {
+            "foo": 6,
+            "bar": 5
+          }
+        ]
+      }
+    ]
+  }
+]
